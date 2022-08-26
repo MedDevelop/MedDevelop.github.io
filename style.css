@@ -45,14 +45,14 @@ section {
 
 }
 .contact{
-    background-color: white;
+    background-color: black;
 }
 .main {
     width: 100%;
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(bg.jpg);
+    background: url(bg2.webp);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
