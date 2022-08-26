@@ -59,7 +59,7 @@ section {
 }
 
 .main h2 {
-    color: #fff;
+    color: black;
     font-size: 1.4em;
     font-weight: 500;
 }
@@ -73,7 +73,7 @@ section {
 }
 
 .main h3 {
-    color: #fff;
+    color: black;
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 1px;
@@ -101,7 +101,7 @@ section {
 }
 
 .social-icons a {
-    color: #fff;
+    color: black;
     font-size: 1.7em;
     padding-right: 30px;
     transition: 1.5s ease;
